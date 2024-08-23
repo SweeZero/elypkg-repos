@@ -1,2 +1,1 @@
-# meow-repos
-Repos for a package manager that's confusing af
+Default Elysium package manager repo

@@ -1,4 +1,4 @@
 # name: Default ElyPKG repo
 # author: SweeZero team and its contributors
 # min-version: genesis
-python-sweecrypt all https://swee.pythonanywhere.com/packages/sweecrypt.elypkg Easy and fun cipher module.
+python-sweecrypt all 1.5 https://swee.codes/packages/sweecrypt.elypkg Easy and fun cipher module.
